@@ -8,9 +8,9 @@ About me:
 
 🛠️ My background is as diverse as it is specialized. I have experience across a range of sectors, including:
 
-🧬 Biomedical Deep Learning: Employing advanced algorithms to solve biomedical problems.
-📊 Data Science: Extracting actionable insights from complex datasets by designing algorithms.
-💻 Software Engineering: Crafting robust, scalable web applications.
+🧬 Biomedical Deep Learning: Employing advanced algorithms to solve biomedical problems.  
+📊 Data Science: Extracting actionable insights from complex datasets by designing algorithms.  
+💻 Software Engineering: Crafting robust, scalable web applications.  
 
 🌐 This multi-disciplinary skill set enables me to view challenges from various perspectives and develop holistic solutions. I'm not just a coder, a researcher, or a data analyst—I'm a blend of all these roles.
 
