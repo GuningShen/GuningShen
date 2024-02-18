@@ -17,7 +17,7 @@ About me:
 Tech stack:
 ---
 💻 Programming Languages: Java, Python, JavaScript, TypeScript, Java, C++, C, SQL, Unix Shell Script  
-🌐 Software Engineering Frameworks: Node.js, Angular, Vue.js, Express.js, FastAPI, Spring Boot, React  
+🌐 Software Engineering Frameworks: Node.js, React.js, Angular.js, Vue.js, Express.js, FastAPI, Spring Boot  
 📊 Data Analysis: Pandas, NumPy, Tableau  
 🤖 AI/ML: PyTorch, TensorFlow, Scikit-learn  
 🚀 Tools: Git, Docker, Anaconda, VS Code, IntelliJ, Maven, Vim  
