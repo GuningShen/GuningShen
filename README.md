@@ -4,20 +4,14 @@ Thank you for visiting my GitHub profile. I'm thrilled to have you here!
 
 About me: 
 ---
-🔬 I'm deeply passionate about leveraging the power of computer science to unlock new insights into biomedical data. My goal is to contribute to advancements in medicine through innovative data analysis and computational problem-solving approaches.
+Hi, I’m a CS undergrad at UNC-Chapel Hill and also an incoming master student of CMU School of Computer Science.I'm deeply passionate about leveraging the power of computer science into our daily lives. I hope to join teams that could make big impact through technology.  
 
-🛠️ My background is as diverse as it is specialized. I have experience across a range of sectors, including:
-
-🧬 Biomedical Deep Learning: Employing advanced algorithms to solve biomedical problems.  
-📊 Data Science: Extracting actionable insights from complex datasets by designing algorithms.  
-💻 Software Engineering: Crafting robust, scalable web applications.  
-
-🌐 This multi-disciplinary skill set enables me to view challenges from various perspectives and develop holistic solutions. I'm not just a coder, a researcher, or a data analyst—I'm a blend of all these roles.
+🛠️ My background is as diverse as it is specialized. I have experiences across a range of sectors, including: software Engineering, Artificial Intelligence and Deep Learning, Data Science.This multi-disciplinary skill set enables me to view challenges from various perspectives and develop holistic solutions. I'm not just a programmer, a researcher, or a data analyst—I'm a blend of all these roles.  
 
 Tech stack:
 ---
 💻 Programming Languages: Java, Python, JavaScript, TypeScript, Java, C++, C, SQL, Unix Shell Script  
-🌐 Software Engineering Frameworks: Node.js, React.js, Angular.js, Vue.js, Express.js, FastAPI, Spring Boot  
+🌐 Software Engineering Frameworks: Node.js, React.js, Next.js, Angular.js, Vue.js, Express.js, FastAPI, Spring Boot  
 📊 Data Analysis: Pandas, NumPy, Tableau  
 🤖 AI/ML: PyTorch, TensorFlow, Scikit-learn  
 🚀 Tools: Git, Docker, Anaconda, VS Code, IntelliJ, Maven, Vim  
