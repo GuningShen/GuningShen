@@ -10,9 +10,9 @@ Hi, I’m a CS undergrad at UNC-Chapel Hill and also an incoming master student 
 
 Tech stack:
 ---
-💻 Programming Languages: Java, Python, JavaScript, TypeScript, Java, C++, C, SQL, Unix Shell Script  
-🌐 Software Engineering Frameworks: Node.js, React.js, Next.js, Angular.js, Vue.js, Express.js, FastAPI, Spring Boot  
-📊 Data Analysis: Pandas, NumPy, Tableau  
+💻 Programming Languages: C, Java, Python, JavaScript, TypeScript, Java, C++, SQL, Unix Shell Script  
+🌐 Software Engineering Frameworks: Node.js, React.js, Next.js, Angular.js, Vue.js, Express.js, NestJS, FastAPI, Spring Boot  
+📊 Database: Postgres, MySQL, Redis
 🤖 AI/ML: PyTorch, TensorFlow, Scikit-learn  
 🚀 Tools: Git, Docker, Anaconda, VS Code, IntelliJ, Maven, Vim  
 
