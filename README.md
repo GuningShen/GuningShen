@@ -4,7 +4,7 @@ Thank you for visiting my GitHub profile. I'm thrilled to have you here!
 
 About me: 
 ---
-Hi, I’m a CS undergrad at UNC-Chapel Hill and also an incoming master student of CMU School of Computer Science.I'm deeply passionate about leveraging the power of computer science into our daily lives. I hope to join teams that could make big impact through technology.  
+Hi, I’m a first-year master student at CMU School of Computer Science. I'm deeply passionate about leveraging the power of computer science into our daily lives. I hope to join teams that could make big impact through technology.  
 
 🛠️ My background is as diverse as it is specialized. I have experiences across a range of sectors, including: software Engineering, Artificial Intelligence and Deep Learning, Data Science.This multi-disciplinary skill set enables me to view challenges from various perspectives and develop holistic solutions. I'm not just a programmer, a researcher, or a data analyst—I'm a blend of all these roles.  
 
